@@ -1,7 +1,7 @@
 # TesteAutomacao
  exercicios de automação
  
-//PomProject
+//PomProject//
 
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -44,7 +44,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 </project>
 
 -------------------------------------------------------------------------------
-//CadastroCliente
+CadastroCliente
 
 package org.Keeggo;
 import org.junit.Assert;
@@ -77,7 +77,7 @@ public class CadastroCliente {
 
 -------------------------------------------------------------------------------
 
-//Login
+Login
 
 package org.Keeggo;
 
@@ -134,7 +134,7 @@ public class login {
 
 
 ---------------------------------------------------------------------------------------------
-//Webbank
+Webbank
 
 import org.junit.Assert;
 import org.junit.Test;
